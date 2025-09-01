@@ -1,2 +1,3 @@
 root commit for create branch
-edit from git1 
+first edit from git1
+second edit from git1
