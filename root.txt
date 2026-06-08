@@ -1,2 +1,6 @@
 root
+<<<<<<< HEAD
 master modify
+=======
+feature modify
+>>>>>>> df33551 (second commit)
